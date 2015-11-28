@@ -1,4 +1,5 @@
 .. _Django: https://www.djangoproject.com/
+.. _DjangoCMS: http://www.django-cms.org/
 .. _emencia-django-slideshows: https://github.com/emencia/emencia-django-slideshows
 
 ====================
