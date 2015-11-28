@@ -1,0 +1,6 @@
+include MANIFEST.in
+include LICENCE.txt
+include README.rst
+recursive-include cmsplugin_slideshows/templates *
+recursive-include cmsplugin_slideshows/locale *
+recursive-include cmsplugin_slideshows/static *
