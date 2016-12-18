@@ -18,7 +18,7 @@ Requires
 ********
 
 * Django >= 1.7;
-* `DjangoCMS`_ >= 3.1;
+* `DjangoCMS`_ >= 3.3;
 * `emencia-django-slideshows`_ >= 1.0.0;
 
 Install
@@ -58,6 +58,6 @@ Slides show
     The default one to display your slides in a slideshow, it use the template defined in the slideshow object (or the default template if empty);
 Random slide
     To display only one random slide.
-    
+
     It will never use the template defined in the slideshow object, instead it will use the template ``slideshows/random_slide/default.html``. Unlike the *Slides show* plugin it don't embed a javascript config template because this is not really useful for a simple slide;
 
